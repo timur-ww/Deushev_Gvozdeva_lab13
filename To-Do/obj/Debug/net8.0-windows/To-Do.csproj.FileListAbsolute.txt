@@ -1,0 +1,40 @@
+C:\Работы студентов\To-Do\bin\Debug\net8.0-windows\To-Do.exe
+C:\Работы студентов\To-Do\bin\Debug\net8.0-windows\To-Do.deps.json
+C:\Работы студентов\To-Do\bin\Debug\net8.0-windows\To-Do.runtimeconfig.json
+C:\Работы студентов\To-Do\bin\Debug\net8.0-windows\To-Do.dll
+C:\Работы студентов\To-Do\bin\Debug\net8.0-windows\To-Do.pdb
+C:\Работы студентов\To-Do\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Работы студентов\To-Do\obj\Debug\net8.0-windows\App.g.cs
+C:\Работы студентов\To-Do\obj\Debug\net8.0-windows\To-Do_MarkupCompile.cache
+C:\Работы студентов\To-Do\obj\Debug\net8.0-windows\To-Do_MarkupCompile.lref
+C:\Работы студентов\To-Do\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Работы студентов\To-Do\obj\Debug\net8.0-windows\To-Do.g.resources
+C:\Работы студентов\To-Do\obj\Debug\net8.0-windows\To-Do.GeneratedMSBuildEditorConfig.editorconfig
+C:\Работы студентов\To-Do\obj\Debug\net8.0-windows\To-Do.AssemblyInfoInputs.cache
+C:\Работы студентов\To-Do\obj\Debug\net8.0-windows\To-Do.AssemblyInfo.cs
+C:\Работы студентов\To-Do\obj\Debug\net8.0-windows\To-Do.csproj.CoreCompileInputs.cache
+C:\Работы студентов\To-Do\obj\Debug\net8.0-windows\To-Do.dll
+C:\Работы студентов\To-Do\obj\Debug\net8.0-windows\refint\To-Do.dll
+C:\Работы студентов\To-Do\obj\Debug\net8.0-windows\To-Do.pdb
+C:\Работы студентов\To-Do\obj\Debug\net8.0-windows\To-Do.genruntimeconfig.cache
+C:\Работы студентов\To-Do\obj\Debug\net8.0-windows\ref\To-Do.dll
+C:\Users\timur\OneDrive\Рабочий стол\vs 2022\Deushev_Gvozdeva_ISP-231_Lab13\To-Do\bin\Debug\net8.0-windows\To-Do.exe
+C:\Users\timur\OneDrive\Рабочий стол\vs 2022\Deushev_Gvozdeva_ISP-231_Lab13\To-Do\bin\Debug\net8.0-windows\To-Do.deps.json
+C:\Users\timur\OneDrive\Рабочий стол\vs 2022\Deushev_Gvozdeva_ISP-231_Lab13\To-Do\bin\Debug\net8.0-windows\To-Do.runtimeconfig.json
+C:\Users\timur\OneDrive\Рабочий стол\vs 2022\Deushev_Gvozdeva_ISP-231_Lab13\To-Do\bin\Debug\net8.0-windows\To-Do.dll
+C:\Users\timur\OneDrive\Рабочий стол\vs 2022\Deushev_Gvozdeva_ISP-231_Lab13\To-Do\bin\Debug\net8.0-windows\To-Do.pdb
+C:\Users\timur\OneDrive\Рабочий стол\vs 2022\Deushev_Gvozdeva_ISP-231_Lab13\To-Do\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\timur\OneDrive\Рабочий стол\vs 2022\Deushev_Gvozdeva_ISP-231_Lab13\To-Do\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\timur\OneDrive\Рабочий стол\vs 2022\Deushev_Gvozdeva_ISP-231_Lab13\To-Do\obj\Debug\net8.0-windows\To-Do_MarkupCompile.cache
+C:\Users\timur\OneDrive\Рабочий стол\vs 2022\Deushev_Gvozdeva_ISP-231_Lab13\To-Do\obj\Debug\net8.0-windows\To-Do_MarkupCompile.lref
+C:\Users\timur\OneDrive\Рабочий стол\vs 2022\Deushev_Gvozdeva_ISP-231_Lab13\To-Do\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\timur\OneDrive\Рабочий стол\vs 2022\Deushev_Gvozdeva_ISP-231_Lab13\To-Do\obj\Debug\net8.0-windows\To-Do.g.resources
+C:\Users\timur\OneDrive\Рабочий стол\vs 2022\Deushev_Gvozdeva_ISP-231_Lab13\To-Do\obj\Debug\net8.0-windows\To-Do.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timur\OneDrive\Рабочий стол\vs 2022\Deushev_Gvozdeva_ISP-231_Lab13\To-Do\obj\Debug\net8.0-windows\To-Do.AssemblyInfoInputs.cache
+C:\Users\timur\OneDrive\Рабочий стол\vs 2022\Deushev_Gvozdeva_ISP-231_Lab13\To-Do\obj\Debug\net8.0-windows\To-Do.AssemblyInfo.cs
+C:\Users\timur\OneDrive\Рабочий стол\vs 2022\Deushev_Gvozdeva_ISP-231_Lab13\To-Do\obj\Debug\net8.0-windows\To-Do.csproj.CoreCompileInputs.cache
+C:\Users\timur\OneDrive\Рабочий стол\vs 2022\Deushev_Gvozdeva_ISP-231_Lab13\To-Do\obj\Debug\net8.0-windows\To-Do.dll
+C:\Users\timur\OneDrive\Рабочий стол\vs 2022\Deushev_Gvozdeva_ISP-231_Lab13\To-Do\obj\Debug\net8.0-windows\refint\To-Do.dll
+C:\Users\timur\OneDrive\Рабочий стол\vs 2022\Deushev_Gvozdeva_ISP-231_Lab13\To-Do\obj\Debug\net8.0-windows\To-Do.pdb
+C:\Users\timur\OneDrive\Рабочий стол\vs 2022\Deushev_Gvozdeva_ISP-231_Lab13\To-Do\obj\Debug\net8.0-windows\To-Do.genruntimeconfig.cache
+C:\Users\timur\OneDrive\Рабочий стол\vs 2022\Deushev_Gvozdeva_ISP-231_Lab13\To-Do\obj\Debug\net8.0-windows\ref\To-Do.dll
